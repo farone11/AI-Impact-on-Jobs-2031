@@ -1,3 +1,14 @@
+## Visualisasi
+
+### Top 10 Job Paling Prospektif 2031
+Chart berdasarkan `Demand_Risk_Ratio = Future_Demand_Score / AI_Replacement_Risk`. 
+Skor >5 artinya job aman dari otomasi AI dan demand tinggi.
+
+![Top 10 Jobs](top10_jobs_2031.png)
+
+Download data: [AI_Impact_on_Jobs_2031_cleaned.csv]
+
+
 # AI-Impact-on-Jobs-2031
 Dataset prediksi dampak AI terhadap pasar kerja global 2031. 3000 records, 20 features. MIT License
 
