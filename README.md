@@ -4,7 +4,7 @@
 Chart berdasarkan `Demand_Risk_Ratio = Future_Demand_Score / AI_Replacement_Risk`. 
 Skor >5 artinya job aman dari otomasi AI dan demand tinggi.
 
-## 🚀 Live Dashboard
+### 🚀 Live Dashboard
 
 [[🚀 Hugging Face Spaces - Live Dashboard](https://img.shields.io/badge/🤗_Hugging_Face-Spaces_🚀-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/farone11/ai-jobs-2031-dashboard)
 
