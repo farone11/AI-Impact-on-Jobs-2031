@@ -4,6 +4,14 @@
 Chart berdasarkan `Demand_Risk_Ratio = Future_Demand_Score / AI_Replacement_Risk`. 
 Skor >5 artinya job aman dari otomasi AI dan demand tinggi.
 
+## 🚀 Live Dashboard
+
+[[🚀 Hugging Face Spaces - Live Dashboard](https://img.shields.io/badge/🤗_Hugging_Face-Spaces_🚀-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/farone11/ai-jobs-2031-dashboard)
+
+Dashboard interaktif by **Farly Setiawan, Specialist Data Engineer**
+
+Explore 3000+ jobs, filter by AI risk, salary, dan industry untuk tahun 2031.
+
 ![Top 10 Jobs](top10_jobs_2031.png)
 
 [Original Dataset](AI_Impact_on_Jobs_2031.csv)
