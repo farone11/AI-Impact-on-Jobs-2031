@@ -6,7 +6,7 @@ Skor >5 artinya job aman dari otomasi AI dan demand tinggi.
 
 ![Top 10 Jobs](top10_jobs_2031.png)
 
-Download data: [AI_Impact_on_Jobs_2031.csv]
+[Original Dataset](AI_Impact_on_Jobs_2031.csv)
 
 
 # AI-Impact-on-Jobs-2031
