@@ -33,6 +33,18 @@ Dataset prediksi dampak AI terhadap pasar kerja global tahun 2031.
 2. Visualisasi job yang tumbuh vs hilang karena AI  
 3. Training model prediksi AI replacement risk
 
+## 👨‍💻 Author
+
+**Farly Setiawan**  
+Founder @ Aitopia | Specialist Data Engineer  
+Helping 2M Indonesian traders lose less money
+
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-Farly_Setiawan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faronecapital)
+[[Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-farone11-yellow)](https://huggingface.co/farone11)
+[[GitHub](https://img.shields.io/badge/GitHub-farone11-181717?style=for-the-badge&logo=github)](https://github.com/farone11)
+
+---
+
 ## Lisensi
 MIT License - bebas dipake, modifikasi, komersial. Lihat file `LICENSE`.
 
