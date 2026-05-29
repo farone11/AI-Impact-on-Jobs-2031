@@ -14,7 +14,7 @@ Explore 3000+ jobs, filter by AI risk, salary, dan industry untuk tahun 2031.
 
 ![Top 10 Jobs](top10_jobs_2031.png)
 
-[Original Dataset](AI_Impact_on_Jobs_2031.csv)
+[Original Dataset](sample_100_jobs.csv)
 
 
 # AI-Impact-on-Jobs-2031
