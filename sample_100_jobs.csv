@@ -1,0 +1,101 @@
+Employee_ID,Job_Title,Industry,Country,Education_Level,Years_Experience,AI_Replacement_Risk,Future_Demand_Score,Remote_Work_Possibility,Average_Salary_USD,Required_Skills,Automation_Level,Job_Growth_2030,Work_Hours_Per_Week,Company_Size,AI_Tool_Usage,Performance_Score,Upskilling_Needed,Job_Satisfaction,Hiring_Trend_2026,AI_Risk_Category,Salary_Level,Demand_Risk_Ratio
+AIJ-101414,IoT Specialist,Education,UAE,PhD,4,0.59,0.53,No,122887,"SQL, Project Management, Python",Low,15,42,Enterprise,High,4.5,Yes,2.46,Growing,Medium,High,0.88
+AIJ-102689,Cloud Architect,Transportation,Germany,High School,25,0.86,0.68,No,56115,"Kubernetes, Data Visualization, Communication, TensorFlow, Deep Learning, Docker",Medium,10,31,Enterprise,Moderate,3.54,No,2.85,Stable,High,Medium,0.78
+AIJ-100277,Digital Marketer,Government,Germany,Bachelor,15,0.53,0.52,No,138381,"Leadership, Machine Learning, Project Management",Low,11,36,Enterprise,High,3.29,No,3.27,Stable,Medium,High,0.96
+AIJ-100405,Healthcare Analyst,Government,Japan,PhD,12,0.76,0.93,Yes,70289,"TensorFlow, Project Management, Leadership, Docker, Python, Azure",Medium,-6,47,Medium,Low,3.42,No,3.28,Stable,High,Medium,1.21
+AIJ-102861,Cloud Architect,Technology,UAE,Bachelor,4,0.65,0.34,No,215145,"Azure, Machine Learning, Python, Excel, Docker",Medium,13,49,Startup,Low,4.81,Yes,4.25,Declining,Medium,High,0.52
+AIJ-102601,DevOps Engineer,Media,Germany,Bachelor,11,0.52,0.7,Yes,192118,"Leadership, Azure, Project Management, AWS, Communication",Medium,45,39,Startup,Low,3.87,Yes,4.75,Growing,Medium,High,1.32
+AIJ-101922,Machine Learning Engineer,Government,UAE,High School,19,0.15,0.62,Hybrid,58348,"Docker, Cloud Computing, Python",High,7,31,Enterprise,High,4.64,No,1.99,Stable,Low,Medium,3.88
+AIJ-101167,AI Engineer,Media,Japan,Master,11,0.57,0.45,Hybrid,187949,"Azure, Docker, Machine Learning, Data Visualization",High,38,52,Enterprise,Moderate,2.5,Yes,3.02,Growing,Medium,High,0.78
+AIJ-100115,IoT Specialist,Retail,USA,High School,21,0.24,0.89,No,178579,"Docker, SQL, Deep Learning",High,26,51,Startup,Low,4.79,No,1.06,Declining,Low,High,3.56
+AIJ-101554,IoT Specialist,Manufacturing,Australia,Bachelor,15,0.35,0.31,No,52162,"Communication, Project Management, TensorFlow, Prompt Engineering, Docker",Low,22,30,Startup,Low,3.24,Yes,3.59,Stable,Medium,Medium,0.86
+AIJ-102841,Prompt Engineer,Finance,Canada,PhD,9,0.66,0.42,Yes,160721,"Deep Learning, Cloud Computing, Leadership, PyTorch",High,-9,56,Enterprise,Low,3.36,Yes,2.19,Stable,Medium,High,0.63
+AIJ-100256,HR Specialist,Finance,Pakistan,High School,17,0.95,0.97,Hybrid,68050,"Cybersecurity, Project Management, Kubernetes, Prompt Engineering",High,-3,35,Medium,Low,4.18,No,4.52,Stable,High,Medium,1.01
+AIJ-100842,Prompt Engineer,Media,UK,Master,0,0.31,0.82,Hybrid,209055,"Project Management, Data Visualization, Cloud Computing, SQL",High,10,34,Startup,High,2.86,Yes,1.07,Growing,Medium,High,2.56
+AIJ-101283,Digital Marketer,Transportation,India,PhD,3,0.81,0.53,Yes,82375,"SQL, PyTorch, Cybersecurity, Deep Learning, Machine Learning, Communication",Low,32,40,Medium,Moderate,4.89,Yes,4.04,Stable,High,Medium,0.65
+AIJ-102074,Digital Marketer,Energy,Pakistan,PhD,4,0.44,0.26,Hybrid,99383,"TensorFlow, Machine Learning, Azure, Leadership, Python, PyTorch",Low,28,53,Enterprise,Moderate,3.17,Yes,3.73,Stable,Medium,Medium,0.58
+AIJ-100082,Healthcare Analyst,Manufacturing,Canada,Master,9,0.21,0.76,Yes,53013,"Cloud Computing, Cybersecurity, Machine Learning, Deep Learning",High,35,59,Enterprise,High,2.52,No,3.04,Declining,Low,Medium,3.45
+AIJ-102173,UX Designer,Energy,India,PhD,1,0.34,0.71,Yes,60520,"Docker, Data Visualization, Communication",Low,16,30,Medium,Moderate,2.34,Yes,4.14,Declining,Medium,Medium,2.03
+AIJ-102150,Product Manager,Energy,Germany,PhD,2,0.73,0.87,Yes,172821,"Cloud Computing, Project Management, Azure, Deep Learning, Data Visualization",Medium,27,48,Enterprise,Moderate,2.02,Yes,4.45,Growing,High,High,1.18
+AIJ-100520,Cloud Architect,Manufacturing,Japan,High School,9,0.81,0.27,Hybrid,100824,"Azure, Docker, Kubernetes",Medium,34,40,Startup,Low,4.22,Yes,3.81,Growing,High,High,0.33
+AIJ-100235,Business Analyst,Manufacturing,Australia,Master,25,0.26,0.32,No,159388,"Communication, Cybersecurity, Azure, Excel, Python",Medium,19,52,Startup,Moderate,2.24,Yes,1.22,Stable,Low,High,1.19
+AIJ-101955,Business Analyst,Technology,UK,Bachelor,17,0.07,0.98,Hybrid,144603,"Kubernetes, Leadership, AWS, Docker",Low,28,59,Startup,Low,3.07,Yes,3.17,Stable,Low,High,12.25
+AIJ-100779,Software Developer,Finance,India,High School,10,0.49,0.92,No,50081,"Machine Learning, Cybersecurity, AWS, Docker",Medium,-8,46,Medium,Moderate,2.08,Yes,1.01,Stable,Medium,Medium,1.84
+AIJ-100123,Teacher,Healthcare,Canada,Bachelor,21,0.92,0.75,Hybrid,170746,"TensorFlow, Docker, PyTorch, Communication, Python, Kubernetes",Medium,0,50,Enterprise,Low,3.69,No,4.87,Stable,High,High,0.81
+AIJ-101839,Machine Learning Engineer,Manufacturing,UK,High School,5,0.44,0.46,Yes,155301,"Deep Learning, SQL, Data Visualization, Project Management, Cybersecurity, Python",High,41,54,Medium,High,3.86,No,2.85,Declining,Medium,High,1.02
+AIJ-102081,Prompt Engineer,Government,India,High School,19,0.09,0.63,No,35143,"Data Visualization, Leadership, Communication, Kubernetes",High,41,59,Medium,Low,4.47,No,4.65,Growing,Low,Low,6.3
+AIJ-100749,HR Specialist,Retail,Australia,Master,0,0.64,0.23,Hybrid,90154,"Azure, Communication, Project Management, Kubernetes",Low,-8,37,Medium,Low,3.19,No,1.19,Declining,Medium,Medium,0.35
+AIJ-100612,UX Designer,Technology,Germany,Bachelor,21,0.63,0.31,Hybrid,149770,"PyTorch, Python, TensorFlow, Docker, Prompt Engineering, Data Visualization",Medium,8,56,Medium,Low,2.97,No,2.3,Growing,Medium,High,0.48
+AIJ-101302,Cybersecurity Analyst,Technology,India,High School,12,0.39,0.67,Hybrid,103442,"Data Visualization, AWS, SQL",High,-1,48,Startup,Low,3.63,Yes,1.51,Declining,Medium,High,1.68
+AIJ-102381,Robotics Engineer,Transportation,Pakistan,High School,21,0.45,0.92,No,191469,"Prompt Engineering, Kubernetes, PyTorch, Communication, Python, AWS",High,1,34,Startup,Low,2.2,No,4.26,Declining,Medium,High,2.0
+AIJ-100164,AI Engineer,Energy,Singapore,PhD,17,0.92,0.67,Hybrid,175123,"Machine Learning, Excel, PyTorch",Medium,26,58,Startup,Moderate,2.9,No,4.61,Growing,High,High,0.72
+AIJ-102987,UX Designer,Healthcare,India,Master,14,0.55,0.73,Hybrid,166973,"Kubernetes, Project Management, Docker, PyTorch, Cloud Computing, Excel",Medium,12,60,Enterprise,High,4.4,No,1.79,Declining,Medium,High,1.3
+AIJ-102133,IoT Specialist,Transportation,Japan,PhD,21,0.16,0.56,Yes,180502,"Leadership, SQL, Communication",Low,28,48,Medium,Moderate,3.33,No,3.69,Growing,Low,High,3.29
+AIJ-101822,Teacher,Transportation,Singapore,Master,5,0.61,0.8,Yes,191975,"Cybersecurity, Excel, SQL, PyTorch, Deep Learning",Low,31,32,Medium,Low,2.83,No,1.55,Stable,Medium,High,1.29
+AIJ-101813,DevOps Engineer,Energy,Germany,Bachelor,8,0.62,0.24,Yes,57357,"Deep Learning, Project Management, Python, Prompt Engineering",Low,6,52,Startup,Low,3.12,Yes,2.02,Growing,Medium,Medium,0.38
+AIJ-101127,DevOps Engineer,Transportation,USA,PhD,1,0.07,0.92,Hybrid,44004,"Azure, Project Management, Communication, PyTorch",Low,-8,51,Enterprise,Low,3.8,Yes,3.16,Growing,Low,Low,11.5
+AIJ-100523,Business Analyst,Transportation,UAE,Master,9,0.2,0.79,Hybrid,173309,"Data Visualization, Cybersecurity, Deep Learning",Low,27,45,Medium,High,2.83,No,3.79,Declining,Low,High,3.76
+AIJ-100654,HR Specialist,Media,UK,Master,23,0.9,0.44,Yes,184001,"Docker, SQL, Prompt Engineering",High,-9,31,Medium,Moderate,2.56,Yes,4.29,Growing,High,High,0.48
+AIJ-100982,Product Manager,Healthcare,India,Bachelor,24,0.06,0.91,Yes,171092,"PyTorch, Excel, Data Visualization",High,-2,44,Enterprise,Moderate,4.87,Yes,2.84,Growing,Low,High,13.0
+AIJ-102259,Product Manager,Manufacturing,Germany,High School,18,0.68,0.92,Yes,130971,"AWS, Machine Learning, Cybersecurity, Azure, Deep Learning, PyTorch",High,18,39,Medium,Moderate,3.71,No,1.06,Growing,Medium,High,1.33
+AIJ-100794,IoT Specialist,Energy,Singapore,Bachelor,19,0.22,0.65,Yes,157241,"Excel, SQL, PyTorch, Communication, Azure",High,43,38,Medium,High,4.89,Yes,1.97,Growing,Low,High,2.83
+AIJ-102315,Teacher,Government,Germany,High School,18,0.06,0.94,Yes,201674,"PyTorch, SQL, Cloud Computing, Leadership",High,43,38,Startup,Low,4.43,Yes,1.66,Growing,Low,High,13.43
+AIJ-100966,UX Designer,Manufacturing,UK,Master,23,0.14,0.97,Yes,191808,"Project Management, SQL, Deep Learning, Kubernetes, Machine Learning, Data Visualization",Medium,-4,35,Startup,Low,4.72,No,3.99,Declining,Low,High,6.47
+AIJ-102436,Cloud Architect,Transportation,UAE,Bachelor,6,0.56,0.89,No,106194,"SQL, Prompt Engineering, Excel, Leadership, AWS",High,33,50,Startup,High,3.89,No,1.44,Growing,Medium,High,1.56
+AIJ-101574,DevOps Engineer,Manufacturing,Pakistan,High School,21,0.51,0.8,Hybrid,206735,"Python, Deep Learning, Data Visualization, SQL, Project Management",High,-9,34,Medium,Low,3.19,No,4.51,Growing,Medium,High,1.54
+AIJ-102520,DevOps Engineer,Retail,Germany,Bachelor,3,0.7,0.58,No,190146,"Kubernetes, Data Visualization, Leadership, Prompt Engineering, Machine Learning",Low,39,34,Startup,High,3.8,Yes,4.73,Stable,Medium,High,0.82
+AIJ-102576,Blockchain Developer,Finance,Japan,High School,22,0.59,0.59,Yes,89179,"AWS, Deep Learning, Cloud Computing, Azure",Medium,45,34,Startup,High,4.37,No,4.23,Declining,Medium,Medium,0.98
+AIJ-102892,HR Specialist,Education,UAE,PhD,22,0.21,0.36,Hybrid,147271,"Prompt Engineering, AWS, SQL, Azure, TensorFlow, Docker",Medium,28,30,Startup,Low,3.8,Yes,3.48,Declining,Low,High,1.64
+AIJ-102030,Digital Marketer,Media,Canada,High School,7,0.62,0.98,Yes,144732,"Communication, Deep Learning, Python, Cloud Computing, Docker",Medium,-7,51,Medium,High,2.8,Yes,2.22,Stable,Medium,High,1.56
+AIJ-100353,Blockchain Developer,Transportation,UAE,Master,19,0.8,0.32,Hybrid,51250,"Cloud Computing, TensorFlow, Excel, Project Management, SQL",Low,11,31,Enterprise,High,4.85,No,4.79,Growing,High,Medium,0.4
+AIJ-102825,UX Designer,Retail,Japan,Master,10,0.22,0.58,Hybrid,127732,"Deep Learning, Cloud Computing, Data Visualization, Azure, TensorFlow",Low,5,51,Startup,Moderate,3.73,Yes,2.32,Stable,Low,High,2.52
+AIJ-100315,Product Manager,Education,India,Bachelor,0,0.1,0.71,Yes,182943,"Azure, Excel, Machine Learning, Data Visualization",High,44,44,Enterprise,High,4.87,No,1.78,Stable,Low,High,6.45
+AIJ-102376,Financial Analyst,Finance,Japan,PhD,8,0.13,0.45,Yes,123661,"Excel, Leadership, Docker",High,10,34,Startup,Low,3.45,Yes,3.21,Declining,Low,High,3.21
+AIJ-100741,Software Developer,Technology,USA,PhD,5,0.86,0.94,Yes,212814,"Cybersecurity, PyTorch, AWS",Low,8,56,Medium,High,4.06,No,3.66,Declining,High,High,1.08
+AIJ-102279,Robotics Engineer,Transportation,Australia,Bachelor,22,0.95,0.36,Hybrid,196688,"PyTorch, Communication, AWS, Cybersecurity",Medium,-5,42,Enterprise,High,2.27,No,4.22,Stable,High,High,0.38
+AIJ-102359,Financial Analyst,Government,Pakistan,Master,15,0.75,0.95,No,207619,"Cloud Computing, Excel, Python",Low,17,47,Startup,High,3.88,No,3.05,Declining,High,High,1.25
+AIJ-102871,Software Developer,Healthcare,Pakistan,PhD,7,0.37,0.23,Hybrid,44242,"Prompt Engineering, Project Management, Excel, Azure, TensorFlow, Cloud Computing",Low,15,42,Medium,High,2.84,Yes,2.63,Stable,Medium,Low,0.61
+AIJ-100661,Data Engineer,Manufacturing,USA,High School,21,0.53,0.64,Yes,67581,"Python, Azure, Machine Learning, PyTorch, Cloud Computing, Project Management",Medium,23,47,Startup,High,4.16,No,2.48,Declining,Medium,Medium,1.19
+AIJ-100302,Digital Marketer,Healthcare,Pakistan,Bachelor,3,0.43,0.79,Yes,115376,"Deep Learning, Azure, Leadership",High,16,57,Startup,Moderate,4.67,Yes,2.88,Stable,Medium,High,1.8
+AIJ-100651,Machine Learning Engineer,Government,Singapore,Bachelor,3,0.89,0.29,No,209052,"SQL, Cloud Computing, Project Management",Low,28,34,Enterprise,Moderate,4.81,No,4.14,Declining,High,High,0.32
+AIJ-101736,Financial Analyst,Education,UAE,PhD,18,0.91,0.73,Yes,125460,"TensorFlow, Project Management, PyTorch, Machine Learning",High,12,58,Enterprise,Moderate,3.96,No,1.08,Declining,High,High,0.79
+AIJ-100090,Teacher,Government,Canada,Bachelor,3,0.5,0.8,No,103327,"Excel, Project Management, Machine Learning, Prompt Engineering",Medium,40,40,Enterprise,Moderate,4.26,Yes,3.41,Stable,Medium,High,1.57
+AIJ-101188,Data Engineer,Transportation,Canada,High School,19,0.06,0.83,Hybrid,50346,"Kubernetes, PyTorch, Data Visualization, Leadership, SQL, TensorFlow",Medium,30,46,Medium,Moderate,2.9,No,4.04,Declining,Low,Medium,11.86
+AIJ-100370,Product Manager,Media,India,Bachelor,2,0.4,0.77,Hybrid,63031,"Prompt Engineering, Project Management, Machine Learning, Python, Communication, Data Visualization",High,9,46,Medium,High,2.48,Yes,4.56,Growing,Medium,Medium,1.88
+AIJ-101835,DevOps Engineer,Transportation,UAE,PhD,14,0.57,0.93,Yes,157276,"Data Visualization, Machine Learning, SQL",Medium,11,54,Medium,Moderate,2.93,No,2.2,Growing,Medium,High,1.6
+AIJ-102975,UX Designer,Government,Japan,PhD,14,0.18,0.97,Hybrid,71802,"PyTorch, Cloud Computing, Cybersecurity, TensorFlow, Excel, Communication",High,28,57,Medium,High,4.97,Yes,3.33,Growing,Low,Medium,5.11
+AIJ-100304,Teacher,Finance,Japan,Bachelor,2,0.85,0.68,No,197247,"Azure, PyTorch, Data Visualization, TensorFlow, AWS, Cloud Computing",High,21,57,Startup,High,3.42,No,2.12,Growing,High,High,0.79
+AIJ-102229,Digital Marketer,Retail,Germany,Bachelor,23,0.67,0.66,Hybrid,39947,"Kubernetes, AWS, Deep Learning, Python, PyTorch, Data Visualization",Low,14,34,Startup,Moderate,4.04,No,3.83,Growing,Medium,Low,0.97
+AIJ-102710,Blockchain Developer,Manufacturing,USA,PhD,16,0.78,0.6,Yes,40285,"PyTorch, AWS, Prompt Engineering, Excel, Leadership, TensorFlow",Low,31,53,Startup,Moderate,2.71,Yes,3.26,Stable,High,Low,0.76
+AIJ-100154,Product Manager,Manufacturing,Australia,Master,5,0.54,0.58,Yes,178282,"TensorFlow, Excel, AWS",Medium,28,37,Startup,Moderate,2.18,No,3.12,Growing,Medium,High,1.05
+AIJ-100702,Data Engineer,Energy,Singapore,PhD,7,0.34,0.86,Hybrid,127864,"Deep Learning, Leadership, AWS, SQL",Medium,37,43,Enterprise,Low,2.68,No,1.62,Growing,Medium,High,2.46
+AIJ-102135,Product Manager,Finance,Indonesia,High School,24,0.95,0.55,Yes,96489,"Excel, TensorFlow, Docker, Communication, Leadership, Prompt Engineering",High,35,44,Startup,Moderate,2.77,No,3.36,Stable,High,Medium,0.57
+AIJ-100392,Teacher,Healthcare,Japan,Bachelor,18,0.58,0.29,Yes,33221,"Cloud Computing, Leadership, Python, Deep Learning, Communication, Data Visualization",High,22,38,Medium,Moderate,3.44,No,1.74,Declining,Medium,Low,0.49
+AIJ-101939,HR Specialist,Manufacturing,Japan,Master,24,0.72,0.26,Hybrid,88936,"Docker, Machine Learning, PyTorch, Cloud Computing, Excel, Prompt Engineering",Medium,40,48,Startup,High,4.92,Yes,3.85,Stable,High,Medium,0.36
+AIJ-101588,Cybersecurity Analyst,Government,India,High School,6,0.55,0.5,No,201461,"Kubernetes, Machine Learning, Excel",High,40,53,Medium,Low,4.63,No,1.48,Declining,Medium,High,0.89
+AIJ-101352,Business Analyst,Technology,Canada,PhD,10,0.44,0.96,Hybrid,98048,"Communication, Machine Learning, Leadership",Medium,17,55,Startup,Low,3.54,No,3.12,Growing,Medium,Medium,2.13
+AIJ-102858,Cloud Architect,Technology,UAE,Master,25,0.36,0.81,Hybrid,125371,"TensorFlow, Machine Learning, Cloud Computing, Azure, Excel",High,24,33,Enterprise,High,3.2,No,4.54,Declining,Medium,High,2.19
+AIJ-101064,Financial Analyst,Technology,Singapore,Bachelor,15,0.38,0.39,Yes,31579,"Deep Learning, Data Visualization, SQL, Excel, Docker, TensorFlow",High,16,53,Startup,Moderate,3.79,No,2.72,Stable,Medium,Low,1.0
+AIJ-102963,Robotics Engineer,Retail,India,Master,0,0.79,0.27,Yes,115472,"Data Visualization, Cybersecurity, Cloud Computing, Machine Learning, Leadership",High,9,54,Medium,High,2.22,Yes,2.56,Growing,High,High,0.34
+AIJ-102184,DevOps Engineer,Education,UAE,Master,23,0.19,0.41,Hybrid,92322,"Cloud Computing, AWS, Python",Low,19,37,Enterprise,Low,2.2,Yes,3.1,Stable,Low,Medium,2.05
+AIJ-102842,Teacher,Transportation,Germany,Bachelor,14,0.57,0.35,Hybrid,79702,"Kubernetes, PyTorch, TensorFlow, Communication, Leadership",Medium,-8,35,Enterprise,Moderate,4.09,No,1.86,Stable,Medium,Medium,0.6
+AIJ-101947,Financial Analyst,Finance,Pakistan,Master,17,0.73,0.51,No,180161,"SQL, Prompt Engineering, Cybersecurity, Data Visualization",High,37,58,Medium,Moderate,2.62,Yes,2.9,Growing,High,High,0.69
+AIJ-101077,IoT Specialist,Transportation,India,Master,8,0.92,0.52,Yes,49727,"Cybersecurity, SQL, Cloud Computing, Machine Learning, AWS",Low,-10,42,Startup,High,4.32,No,3.56,Growing,High,Low,0.56
+AIJ-102624,Healthcare Analyst,Retail,USA,Bachelor,9,0.9,0.78,No,50000,"Machine Learning, Cybersecurity, Prompt Engineering, Azure, Excel",Medium,22,36,Startup,Moderate,4.67,Yes,1.43,Declining,High,Low,0.86
+AIJ-102490,HR Specialist,Transportation,Singapore,Master,1,0.48,0.52,Hybrid,97060,"TensorFlow, Docker, Data Visualization, Kubernetes",Medium,23,57,Enterprise,Moderate,4.72,No,4.71,Stable,Medium,Medium,1.06
+AIJ-102365,Prompt Engineer,Government,Germany,Bachelor,22,0.35,0.48,No,55498,"SQL, Communication, PyTorch, Cybersecurity, Docker, Excel",Low,43,40,Enterprise,Moderate,4.27,No,1.4,Growing,Medium,Medium,1.33
+AIJ-100823,Digital Marketer,Energy,UAE,Master,1,0.71,0.95,Yes,55527,"Excel, Prompt Engineering, PyTorch, Deep Learning",High,7,60,Startup,High,4.59,Yes,2.13,Declining,High,Medium,1.32
+AIJ-102168,Product Manager,Healthcare,Japan,High School,4,0.31,0.33,Yes,55606,"Docker, Project Management, TensorFlow, PyTorch, Excel",Low,-10,33,Medium,Moderate,2.32,Yes,2.62,Declining,Medium,Medium,1.03
+AIJ-102448,AI Engineer,Energy,Indonesia,PhD,8,0.34,0.64,No,125775,"Excel, Leadership, AWS, Deep Learning, Kubernetes, Python",Low,-4,41,Enterprise,High,2.02,Yes,4.49,Stable,Medium,High,1.83
+AIJ-100496,Data Engineer,Technology,Singapore,Bachelor,6,0.88,0.35,No,37747,"Data Visualization, Docker, Communication",Low,3,30,Medium,Low,2.66,Yes,2.07,Stable,High,Low,0.39
+AIJ-100623,Business Analyst,Retail,Pakistan,PhD,5,0.47,0.23,No,186291,"Docker, Cybersecurity, Kubernetes, Excel",Low,1,59,Enterprise,Low,4.23,Yes,2.46,Declining,Medium,High,0.48
+AIJ-102580,Healthcare Analyst,Retail,Germany,Master,14,0.39,0.91,Hybrid,54256,"Prompt Engineering, Cloud Computing, Leadership, Deep Learning, PyTorch",Low,25,50,Startup,Moderate,3.36,No,3.48,Growing,Medium,Medium,2.28
+AIJ-102519,Digital Marketer,Media,UAE,PhD,2,0.36,0.66,No,111648,"Cybersecurity, Project Management, Data Visualization, SQL, AWS, Azure",Low,4,40,Enterprise,High,2.65,Yes,4.65,Stable,Medium,High,1.78
+AIJ-100472,Financial Analyst,Media,UAE,Bachelor,3,0.38,0.36,Yes,34496,"Machine Learning, PyTorch, Deep Learning, Excel, SQL, Cloud Computing",Medium,13,57,Startup,Moderate,3.38,No,1.97,Declining,Medium,Low,0.92
+AIJ-102049,Product Manager,Manufacturing,Australia,PhD,10,0.44,0.66,Hybrid,34062,"Leadership, Prompt Engineering, Cloud Computing, Deep Learning",Low,-9,50,Medium,High,3.31,Yes,4.19,Growing,Medium,Low,1.47
+AIJ-100088,Healthcare Analyst,Government,Pakistan,Bachelor,24,0.83,0.53,Yes,71864,"Cloud Computing, SQL, Project Management, Prompt Engineering",Medium,22,44,Medium,Moderate,3.49,Yes,4.78,Growing,High,Medium,0.63
+AIJ-101680,IoT Specialist,Energy,UK,High School,11,0.09,0.89,Hybrid,65634,"Kubernetes, Machine Learning, Azure",High,34,46,Medium,Moderate,4.47,No,4.14,Declining,Low,Medium,8.9
+AIJ-100493,Financial Analyst,Finance,Germany,Bachelor,9,0.72,0.3,Yes,148936,"Python, Machine Learning, TensorFlow, Kubernetes",High,43,37,Enterprise,Moderate,4.31,Yes,2.1,Declining,High,High,0.41
+AIJ-100212,Healthcare Analyst,Transportation,Japan,High School,7,0.64,0.41,No,219841,"PyTorch, Cybersecurity, Data Visualization, Project Management",Medium,-2,33,Startup,Low,3.57,No,4.31,Growing,Medium,High,0.63
+AIJ-100619,Software Developer,Media,Pakistan,High School,10,0.53,0.95,No,40342,"Project Management, Data Visualization, Cloud Computing, Python",Low,32,36,Startup,Moderate,2.49,No,1.93,Declining,Medium,Low,1.76
+AIJ-101847,Blockchain Developer,Retail,Singapore,PhD,18,0.63,0.54,No,178768,"Cybersecurity, Machine Learning, Kubernetes",High,9,46,Medium,High,4.26,No,3.96,Declining,Medium,High,0.84
