@@ -25,7 +25,7 @@ Interactive dashboard predicting AI automation risk for global jobs in 2031.
 
 ### 📦 Commercial Licensing
 
-This codebase and full dataset are available for commercial use.
+This codebase and full datasheet are available for commercial use.
 
 **What you get:**
 1. Full dataset: 3000+ jobs, 50+ features
@@ -44,7 +44,7 @@ This codebase and full dataset are available for commercial use.
 ---
 *Demo version is free for evaluation. Full version requires license.*
 
-## Dataset Details
+## Datasheet Details
 - **Demo: 100 records** | **Full: 3000+ records** with 50+ columns
 - Key columns: `Job_Title`, `Industry`, `Country`, `AI_Replacement_Risk`, `Future_Demand_Score`, `Average_Salary_USD`
 - Covers automation risk, future demand, and hiring trends for 2031
@@ -67,7 +67,7 @@ Helping 2M Indonesian traders lose less money
 ---
 
 ## License
-Commercial License Required. The demo is free for evaluation. Full dataset and source code require purchase. 
+Commercial License Required. The demo is free for evaluation. Full datasheet and source code require purchase. 
 Contact farone2013@gmail.com for licensing.
 
 ## Contact
