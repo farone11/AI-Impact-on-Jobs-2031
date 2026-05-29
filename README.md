@@ -23,6 +23,33 @@ Dataset prediksi dampak AI terhadap pasar kerja global 2031. 3000 records, 20 fe
 # AI Impact on Jobs 2031 Dataset
 Dataset prediksi dampak AI terhadap pasar kerja global tahun 2031.
 
+# AI Impact on Jobs 2031 [Commercial]
+
+Interactive dashboard predicting AI automation risk for 3000+ global jobs.
+
+🔗 **Live Demo**: [huggingface.co/spaces/farone11/ai-jobs-2031-dashboard](https://huggingface.co/spaces/farone11/ai-jobs-2031-dashboard)
+
+### 📦 Commercial Licensing
+
+This codebase and full dataset are available for commercial use.
+
+**What you get:**
+1. Full dataset: 3000+ jobs, 50+ features
+2. Source code: Gradio + Python backend 
+3. API documentation
+4. Commercial license
+
+**Pricing:**
+- Startup: $499 one-time
+- Enterprise License: $4,499/year - Unlimited use + support
+- Custom Analysis: $2,000+ - We analyze your company job list
+- Enterprise: Custom quote
+
+📧 **Contact**: farone11@gmail.com | **DM on X**: @FarOne11
+
+---
+*Demo version is free. Full version requires license.*
+
 ## Isi Dataset
 - **3000 records** dengan 20 kolom
 - Kolom utama: `Job_Title`, `Industry`, `Country`, `AI_Replacement_Risk`, `Future_Demand_Score`, `Average_Salary_USD`
