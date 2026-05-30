@@ -6,7 +6,7 @@ Score >5 means the job is safe from AI automation and has high future demand.
 
 ### 🚀 Live Dashboard
 
-[![Hugging Face Spaces](https://img.shields.io/badge/🤗_Hugging_Face-Spaces_🚀-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/spaces/farone11/ai-jobs-2031-dashboard)
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗_Hugging_Face-Spaces_🚀-FFD21E?style=for-the-badge&logo=huggingface)](https://farone11-ai-jobs-2031-dashboard.hf.space)
 
 Interactive dashboard by **Farly Setiawan, Specialist Data Engineer**
 
